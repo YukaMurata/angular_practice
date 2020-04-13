@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-practice';
+  products = [{ name: 'hoge', test: 'ttt' }, { name: 'huga' }];
 }
