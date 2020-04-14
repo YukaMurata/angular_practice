@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## memo
 
 チュートリアルで基礎勉強中
+
+### 学習中に驚いたこと
+
+- HttpClient の戻り値が Observable である。(この戻り値を使って実装する場合は subscribe が必要)
