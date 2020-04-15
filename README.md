@@ -1,4 +1,4 @@
-# AngularPractice
+# angular のチュートリアル用リポジトリ
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
@@ -26,10 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## memo
-
-チュートリアルで基礎勉強中
-
-### 学習中に驚いたこと
+### memo
 
 - HttpClient の戻り値が Observable である。(この戻り値を使って実装する場合は subscribe が必要)
